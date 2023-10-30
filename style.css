@@ -1,0 +1,17 @@
+body{
+    background: #d6d1de;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(118, 118, 169);
+    background:rgb(113, 181, 181);
+}
+
+p{
+    text-align: center;
+}
+
+em strong {
+    color:rgb(147, 93, 197);
+}
